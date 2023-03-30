@@ -31,3 +31,7 @@ $ cd Dark-Botz-MD
 $ npm install / yarn
 $ node .
 ```
+----------
+## FOR REPLIT USER
+[![Run on Repl.it](https://repl.it/badge/github/darkbotzmd/Dark-Botz-MD-V2)](https://repl.it/github/darkbotzmd/Dark-Botz-MD-V2)
+------
