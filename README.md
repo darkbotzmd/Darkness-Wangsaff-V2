@@ -27,7 +27,7 @@ $ apt install yarn -y
 $ apt install imagemagick -y
 $ apt install ffmpeg -y
 $ git clone https://github.com/darkbotzmd/Darkness-Wangsaff-V2
-$ cd Dark-Botz-MD-V2
+$ cd Darkness-Wangsaff-V2
 $ npm install / yarn
 $ node .
 ```
