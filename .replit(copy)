@@ -1,0 +1,1 @@
+run = "pm2 link kg1507vehlsc4do yhoaxmo075bvgzp && pm2 install pm2-server-monit && pm2 start index.js && pm2 logs"
